@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Desktop Applications (Python, SQL, Kivy, Tkinter)</b>
-  - [TRMVO - A financial modelling application for rental properties](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TRMVO - A financial modelling application for rental properties](https://github.com/Tom4257644/TRMVO/blob/main/README.md)
   - [BOEVO - An arbitrage identifier for sports betting](https://github.com/Tom4257644/BOEVO)
 
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
