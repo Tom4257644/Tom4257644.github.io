@@ -7,7 +7,7 @@
   - [BOEVO - An arbitrage identifier for sports betting](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
-  - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension)
   - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/joshmadakor1/Algorithms-Practice)
   - ['Regret it' website](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Useful everyday projects (Python, Databases, Web scraping, API use, and Automation </b>
