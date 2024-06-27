@@ -9,9 +9,7 @@
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
   - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension)
   - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/Tom4257644/HomeworkForum)
-  - ['Regret it' website](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Useful everyday projects (Python, Databases, Web scraping, API use, and Automation </b>
-  - [Calculate my tax](https://github.com/joshmadakor1/Algorithms-Practice)
+  - ['Regret Score' website](https://github.com/Tom4257644/RegretScore)
 - <b>Currently working on... </b>
   - A Chrome extension that blocks all mention of TV show spoilers
   - A new, more complex version of TRMVO (My Rental Model App) with a rental pricing estimator, support for other property types, and potential integration of APIs for housing prices and live dynamically updated economic data
