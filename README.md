@@ -8,7 +8,7 @@
 
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
   - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension)
-  - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/Tom4257644/HomeworkForum)
   - ['Regret it' website](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Useful everyday projects (Python, Databases, Web scraping, API use, and Automation </b>
   - [Calculate my tax](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -22,7 +22,7 @@
   - [Vulcan Steel - Craigs investment partners and University of Auckland Investment Club competition](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Skellerup - University of Auckland Investment Club](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Monetary Policy</b>
-  - [Reserve Bank of New Zealand's Monetry Policy Challenge](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Reserve Bank of New Zealand's Monetary Policy Challenge](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 Connect with me:
