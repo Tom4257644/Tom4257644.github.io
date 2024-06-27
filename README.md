@@ -4,7 +4,7 @@
 
 - <b>Desktop Applications (Python, SQL, Kivy, Tkinter)</b>
   - [TRMVO - A financial modelling application for rental properties](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [BOEVO - An arbitrage identifier for sports betting](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [BOEVO - An arbitrage identifier for sports betting](https://github.com/Tom4257644/BOEVO)
 
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
   - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension)
