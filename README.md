@@ -4,12 +4,12 @@
 
 - <b>Desktop Applications (Python, SQL, Kivy, Tkinter)</b>
   - [TRMVO - A financial modelling application for rental properties](https://github.com/Tom4257644/TRMVO/blob/main/README.md)
-  - [BOEVO - An arbitrage identifier for sports betting](https://github.com/Tom4257644/BOEVO)
+  - [BOEVO - An arbitrage identifier for sports betting](https://github.com/Tom4257644/BOEVO/blob/main/README.md)
 
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
-  - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension)
-  - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/Tom4257644/HomeworkForum)
-  - ['Regret Score' website](https://github.com/Tom4257644/RegretScore)
+  - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension/blob/main/README.md)
+  - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/Tom4257644/HomeworkForum/blob/main/README.md)
+  - ['Regret Score' website](https://github.com/Tom4257644/RegretScore/blob/main/README.md)
 - <b>Currently working on... </b>
   - A Chrome extension that blocks all mention of TV show spoilers
   - A new, more complex version of TRMVO (My Rental Model App) with a rental pricing estimator, support for other property types, and potential integration of APIs for housing prices and live dynamically updated economic data
@@ -25,3 +25,5 @@
 
 Connect with me:
 https://www.linkedin.com/in/tom-maclean-23ab1530a/
+
+
