@@ -7,7 +7,8 @@
   - [BOEVO - An arbitrage identifier for sports betting](https://github.com/Tom4257644/BOEVO/blob/main/README.md)
 
 - <b>Web Development (JavaScript, PHP, SQL, HTML, CSS, BOOTSTRAP) </b>
-  - [BlackJack Chrome Extention Game (Best example of JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension/blob/main/README.md)
+  - [BlackJack Game Chrome Extention (JavaScript)](https://github.com/Tom4257644/blackjackChromeExtension/blob/main/README.md)
+  - [Mental Arithmetic Challenge Chrome Extention (JavaScript)](https://github.com/Tom4257644/MAC-Chrome/blob/main/README.md)
   - [Basic Forum (The best example of CRUD, user authentication, and login systems with MySQL and PHP)](https://github.com/Tom4257644/HomeworkForum/blob/main/README.md)
   - ['Regret Score' website](https://github.com/Tom4257644/RegretScore/blob/main/README.md)
 - <b>Currently working on... </b>
