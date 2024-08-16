@@ -19,7 +19,7 @@
 
 - <b>Stock/M&A Pitches</b>
   - [Craigs Investment Partners Stock Pitch - Vulcan Steel](https://github.com/Tom4257644/VulcanSteel/blob/main/README.md)
-  - [UBS National M&A competition - Metro Mining](https://github.com/Tom4257644/VulcanSteel/blob/main/README.md)
+  - [UBS National M&A competition - Metro Mining](https://github.com/Tom4257644/UBS-Competition-2024/blob/main/README.md)
 - <b>Monetary Policy</b>
   - [Reserve Bank of New Zealand's Monetary Policy Challenge](https://github.com/Tom4257644/RBNZ_MPC/blob/main/README.md)
 
