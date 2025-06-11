@@ -18,6 +18,8 @@
 <h2>Finance Projects:</h2>
 
 - <b>Stock/M&A Pitches</b>
+  - [Most Recent Pitch - Vulcan Steel](https://github.com/Tom4257644/forbar/blob/main/README.md)
+  - [Investment Committee Pitches](https://github.com/Tom4257644/ic/blob/main/README.md)
   - [Craigs Investment Partners Stock Pitch - Vulcan Steel](https://github.com/Tom4257644/VulcanSteel/blob/main/README.md)
   - [UBS National M&A competition - Metro Mining](https://github.com/Tom4257644/UBS-Competition-2024/blob/main/README.md)
 - <b>Monetary Policy</b>
