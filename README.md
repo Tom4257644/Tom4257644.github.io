@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tom Maclean <br/><a href="https://www.linkedin.com/in/tom-maclean-23ab1530a/">A second year Finance and Math student</a>, </h1>
+<h1>I'm Tom Maclean <br/><a href="https://www.linkedin.com/in/tom-maclean-23ab1530a/">A second year Finance and Math student</a>, </h1>
 
 <h2>Software Development Projects:</h2>
 
